@@ -1,4 +1,4 @@
-## Hello, I am Muhamad Nour Haboush
+## Hello, I am Mohamad Nour Haboush
 
 I am a 3rd-year Computer Engineering student at Alanya Alaaddin Keykubat University. I am passionate about backend development, software engineering, and building real-world applications. My goal is to become a skilled software developer and pursue a career abroad, especially in Europe.
 
